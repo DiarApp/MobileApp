@@ -1,5 +1,5 @@
 ---
-name: "\U0001F4A1 リクエスト"
+name: "\U0001F4A1 Feature Request"
 about: アイデアや追加して欲しい機能の提案
 title: "\U0001F4A1 "
 labels: feature
