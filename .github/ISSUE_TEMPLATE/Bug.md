@@ -24,7 +24,7 @@ assignees: TinyKitten
 ## スクリーンショット
 可能であればスクリーンショットを添付してください
 
-**Smartphone (please complete the following information):**
+## 再現した端末の情報
  - 端末名: 例: iPhone 15 Pro
  - OS: 例: iOS 17.1.1
  - アプリのバージョン: 例: v1.2.3
