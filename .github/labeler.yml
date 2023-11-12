@@ -1,0 +1,18 @@
+ci/cd:
+  - .github/workflows/*
+  - .github/*.yml
+documentation:
+  - .github/ISSUE_TEMPLATE/*
+  - pull_request_template.md
+ios:
+  - ios/*
+  - ios/**/*
+android:
+  - android/*
+  - android/**/*
+react:
+  - src/*
+  - src/**/*
+functions:
+  - functions/*
+  - functions/**/*
